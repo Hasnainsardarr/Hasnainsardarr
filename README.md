@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [husnainsardar.me](husnainsardar.me)
 
-- 💬 Ask me about **PowerBi, Data Cleaning, Pipeline Creation ,Python, MERN stack development**
+- 💬 Ask me about **PowerBi, Data Cleaning, Pipeline Creation ,Machine Learning,Python, MERN stack development**
 
 - 📫 How to reach me **husnainsardar07@gmail.com**
 
