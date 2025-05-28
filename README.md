@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Husnain</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 - 🌱 I’m currently learning **Unsupervised learning**
 
