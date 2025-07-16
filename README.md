@@ -5,7 +5,7 @@
 
 - I’m looking to collaborate on **Data Analysis And Machine Learning**
 
-- 👨‍💻 All of my projects are available at [husnainsardar.me](husnainsardar.me)
+- 👨‍💻 All of my projects are available at [husnainsardar.dev](husnainsardar.dev)
 
 - 💬 Ask me about **PowerBi, Data Cleaning, Pipeline Creation ,Machine Learning,Python, MERN stack development**
 
