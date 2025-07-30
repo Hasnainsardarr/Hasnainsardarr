@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Machine Learning | LLM Agents</h3>
 
 - 🤖 I design and deploy **LLM-based AI Agents**, multi-agent systems, and automation pipelines  
-- 🌱 I’m currently learning more about **RAG**, **LangChain**, and scalable AI architectures  
+- 🌱 I’m currently learning more about **Unsupervised Learning**, and scalable AI architectures  
 - 💬 Ask me about **AI Agents, Python, Data Analytics, Machine Learning, MERN Stack**  
 - 🧠 I build solutions in **Machine Learning**, voice automation, and intelligent workflows  
 - 👨‍💻 All of my work lives at [husnainsardar.dev](https://husnainsardar.dev)  
@@ -22,9 +22,6 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
  <a><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/></a>
-<a><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="OpenAI"/></a>
-<a><img src="https://www.vectorlogo.zone/logos/elevenlabsio/elevenlabsio-icon.svg" width="40" height="40" alt="ElevenLabs"/></a>
-
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
