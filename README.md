@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Husnain 👋</h1>
-<h3 align="center">AI Engineer | Machine Learning | LLM Agents</h3>
+<h3 align="center">AI Engineer | Full-Stack Developer </h3>
 
 - 🤖 I design and deploy **LLM-based AI Agents**, multi-agent systems, and automation pipelines  
 - 🌱 I’m currently learning more about **Unsupervised Learning**, and scalable AI architectures  
