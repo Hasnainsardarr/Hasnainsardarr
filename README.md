@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Husnain 👋</h1>
 <h3 align="center">AI Engineer | Full-Stack Developer </h3>
 
-I build AI agents & softwares that (mostly) behave. If you’re asking me something and it involves **AI, ML, or Dev,** I’ll probably over-explain! | Find some (almost) cool stuff at: [husnainsardar.dev](https://husnainsardar.dev) | **husnainsardar07@gmail.com**
+I build AI agents & softwares that (mostly) behave. 
+If you’re asking me something and it involves **AI, ML, or Dev,** I’ll probably over-explain! 
+Find some (almost) cool stuff at: [husnainsardar.dev](https://husnainsardar.dev) | **husnainsardar07@gmail.com**
 
 ---
 
