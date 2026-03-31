@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Husnain 👋</h1>
 <h3 align="center">AI Engineer | Full-Stack Developer </h3>
 
-- 🤖 I design and deploy **LLM-based AI Agents**, multi-agent systems, and automation pipelines  
-- 🌱 I’m currently learning more about **Unsupervised Learning**, and scalable AI architectures  
-- 💬 Ask me about **AI Agents, Python, Data Analytics, Machine Learning, MERN Stack**  
-- 🧠 I build solutions in **Machine Learning**, voice automation, and intelligent workflows  
-- 👨‍💻 All of my work lives at [husnainsardar.dev](https://husnainsardar.dev)  
-- 📫 Reach out at **husnainsardar07@gmail.com**
+I build AI agents & softwares that (mostly) behave. If you’re asking me something and it involves **AI, ML, or Dev,** I’ll probably over-explain! | Find some (almost) cool stuff at: [husnainsardar.dev](https://husnainsardar.dev) | **husnainsardar07@gmail.com**
 
 ---
 
